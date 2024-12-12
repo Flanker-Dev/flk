@@ -4,7 +4,7 @@
     "bookmarkDescription": "Social Network is a social network",
     "bookmarkTags": ["Social", "Network"],
     "emoji": "🌐",
-    "nsfw": true,
+    "nsfw": false,
     "createdAt": "2021-07-01T00:00:00.000Z",
     "updatedAt": "2021-07-01T00:00:00.000Z",
     "bookmarkList": [
