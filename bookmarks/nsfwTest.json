@@ -1,12 +1,12 @@
 {
   "bookmark": {
-    "bookmarkTitle": "no nsfw",
+    "bookmarkTitle": "nsfwTest",
     "bookmarkDescription": "no nwsfw",
     "bookmarkTags": [
       "nonwsfw"
     ],
     "emoji": "🌵",
-    "nsfw": false,
+    "nsfw": true,
     "createdAt": "2024-12-10T09:30:27.923Z",
     "updatedAt": "2024-12-10T09:30:27.923Z",
     "bookmarkList": [
