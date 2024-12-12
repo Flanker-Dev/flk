@@ -1,0 +1,27 @@
+{
+  "bookmark": {
+    "bookmarkTitle": "emoji test2",
+    "bookmarkDescription": "emoji test2",
+    "bookmarkTags": [
+      "emojitest2"
+    ],
+    "emoji": "😍",
+    "nsfw": true,
+    "createdAt": "2024-12-10T01:18:15.064Z",
+    "updatedAt": "2024-12-10T01:18:15.064Z",
+    "bookmarkList": [
+      {
+        "name": "saddsadadad",
+        "bookmarkInfo": [
+          {
+            "id": "e4707c1d-f4d9-4a70-a8f2-60fe8ee288ae",
+            "title": "safafa",
+            "url": "https://news.ycombinator.com/news",
+            "description": "",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "bookmark": {
+    "bookmarkTitle": "Social Network",
+    "bookmarkDescription": "Social Network is a social network",
+    "bookmarkTags": ["Social", "Network"],
+    "emoji": "🌐",
+    "nsfw": true,
+    "createdAt": "2021-07-01T00:00:00.000Z",
+    "updatedAt": "2021-07-01T00:00:00.000Z",
+    "bookmarkList": [
+      {
+        "title": "facebook",
+        "bookmarkInfo": [
+          {
+            "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+            "title": "facebook",
+            "url": "https://www.facebook.com/",
+            "description": "facebook is a social network website",
+            "tags": ["facebook", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "google",
+        "bookmarkInfo": [
+          {
+            "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+            "title": "google",
+            "url": "https://www.google.com/",
+            "description": "google is a search engine",
+            "tags": ["google", "search", "engine"]
+          }
+        ]
+      },
+      {
+        "title": "x",
+        "bookmarkInfo": [
+          {
+            "id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+            "title": "x",
+            "url": "https://www.x.com/",
+            "description": "x is a website",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "title": "Pinterest",
+        "bookmarkInfo": [
+          {
+            "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+            "title": "Pinterest",
+            "url": "https://www.pinterest.com/",
+            "description": "Pinterest is a social network",
+            "tags": ["Pinterest", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Instagram",
+        "bookmarkInfo": [
+          {
+            "id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+            "title": "Instagram",
+            "url": "https://www.instagram.com/",
+            "description": "Instagram is a social network",
+            "tags": ["Instagram", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "LinkedIn",
+        "bookmarkInfo": [
+          {
+            "id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com/",
+            "description": "LinkedIn is a social network",
+            "tags": ["LinkedIn", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Reddit",
+        "bookmarkInfo": [
+          {
+            "id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+            "title": "Reddit",
+            "url": "https://www.reddit.com/",
+            "description": "Reddit is a social network",
+            "tags": ["Reddit", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Tumblr",
+        "bookmarkInfo": [
+          {
+            "id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+            "title": "Tumblr",
+            "url": "https://www.tumblr.com/",
+            "description": "Tumblr is a social network",
+            "tags": ["Tumblr", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Snapchat",
+        "bookmarkInfo": [
+          {
+            "id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+            "title": "Snapchat",
+            "url": "https://www.snapchat.com/",
+            "description": "Snapchat is a social network",
+            "tags": ["Snapchat", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "WhatsApp",
+        "bookmarkInfo": [
+          {
+            "id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+            "title": "WhatsApp",
+            "url": "https://www.whatsapp.com/",
+            "description": "WhatsApp is a social network",
+            "tags": ["WhatsApp", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Skype",
+        "bookmarkInfo": [
+          {
+            "id": "1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+            "title": "Skype",
+            "url": "https://www.skype.com/",
+            "description": "Skype is a social network",
+            "tags": ["Skype", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Twitter",
+        "bookmarkInfo": [
+          {
+            "id": "2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+            "title": "Twitter",
+            "url": "https://www.twitter.com/",
+            "description": "Twitter is a social network",
+            "tags": ["Twitter", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "YouTube",
+        "bookmarkInfo": [
+          {
+            "id": "3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+            "title": "YouTube",
+            "url": "https://www.youtube.com/",
+            "description": "YouTube is a social network",
+            "tags": ["YouTube", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Vimeo",
+        "bookmarkInfo": [
+          {
+            "id": "4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+            "title": "Vimeo",
+            "url": "https://www.vimeo.com/",
+            "description": "Vimeo is a social network",
+            "tags": ["Vimeo", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Flickr",
+        "bookmarkInfo": [
+          {
+            "id": "5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+            "title": "Flickr",
+            "url": "https://www.flickr.com/",
+            "description": "Flickr is a social network",
+            "tags": ["Flickr", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "WhatsApp",
+        "bookmarkInfo": [
+          {
+            "id": "6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+            "title": "WhatsApp",
+            "url": "https://www.whatsapp.com/",
+            "description": "WhatsApp is a social network",
+            "tags": ["WhatsApp", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Telegram",
+        "bookmarkInfo": [
+          {
+            "id": "7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+            "title": "Telegram",
+            "url": "https://www.telegram.com/",
+            "description": "Telegram is a social network",
+            "tags": ["Telegram", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "WeChat",
+        "bookmarkInfo": [
+          {
+            "id": "8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+            "title": "WeChat",
+            "url": "https://www.wechat.com/",
+            "description": "WeChat is a social network",
+            "tags": ["WeChat", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Line",
+        "bookmarkInfo": [
+          {
+            "id": "9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+            "title": "Line",
+            "url": "https://www.line.com/",
+            "description": "Line is a social network",
+            "tags": ["Line", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Viber",
+        "bookmarkInfo": [
+          {
+            "id": "0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+            "title": "Viber",
+            "url": "https://www.viber.com/",
+            "description": "Viber is a social network",
+            "tags": ["Viber", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "TikTok",
+        "bookmarkInfo": [
+          {
+            "id": "1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+            "title": "TikTok",
+            "url": "https://www.tiktok.com/",
+            "description": "TikTok is a social network",
+            "tags": ["TikTok", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Twitch",
+        "bookmarkInfo": [
+          {
+            "id": "2v3w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+            "title": "Twitch",
+            "url": "https://www.twitch.com/",
+            "description": "Twitch is a social network",
+            "tags": ["Twitch", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Discord",
+        "bookmarkInfo": [
+          {
+            "id": "3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+            "title": "Discord",
+            "url": "https://www.discord.com/",
+            "description": "Discord is a social network",
+            "tags": ["Discord", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Slack",
+        "bookmarkInfo": [
+          {
+            "id": "4x5y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+            "title": "Slack",
+            "url": "https://www.slack.com/",
+            "description": "Slack is a social network",
+            "tags": ["Slack", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Zoom",
+        "bookmarkInfo": [
+          {
+            "id": "5y6z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+            "title": "Zoom",
+            "url": "https://www.zoom.com/",
+            "description": "Zoom is a social network",
+            "tags": ["Zoom", "social", "network"]
+          }
+        ]
+      },
+      {
+        "title": "Facebook Messenger",
+        "bookmarkInfo": [
+          {
+            "id": "6z7a8b9c-0d1e-2f3g-4h5i-6j7k8l9m0n1o",
+            "title": "Facebook Messenger",
+            "url": "https://www.messenger.com/",
+            "description": "Facebook Messenger is a social network",
+            "tags": ["Facebook Messenger", "social", "network"]
+          }
+        ]
+      }
+    ]
+  }
+}

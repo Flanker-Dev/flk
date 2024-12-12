@@ -1,0 +1,24 @@
+{
+  "bookmark": {
+    "bookmarkTitle": "",
+    "bookmarkDescription": "",
+    "bookmarkTags": [],
+    "emoji": "",
+    "nsfw": false,
+    "createdAt": "",
+    "updatedAt": "",
+    "bookmarkList": [
+      {
+        "name": "",
+        "bookmarkInfo": [
+          {
+            "title": "",
+            "url": "",
+            "description": "",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "bookmark": {
+    "bookmarkTitle": "no nsfw",
+    "bookmarkDescription": "no nwsfw",
+    "bookmarkTags": [
+      "nonwsfw"
+    ],
+    "emoji": "🌵",
+    "nsfw": false,
+    "createdAt": "2024-12-10T09:30:27.923Z",
+    "updatedAt": "2024-12-10T09:30:27.923Z",
+    "bookmarkList": [
+      {
+        "name": "no nwsfw",
+        "bookmarkInfo": [
+          {
+            "id": "d248806b-8ba9-4690-a787-16cad137b19a",
+            "title": "no nwsfw",
+            "url": "https://www.radix-ui.com/primitives/docs/components/accordion",
+            "description": "",
+            "tags": []
+          }
+        ]
+      }
+    ]
+  }
+}
